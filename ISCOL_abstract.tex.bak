@@ -56,11 +56,11 @@ linkcolor={red!80!black}
 \section{Background}
 We present the current state of HEGRAM, a deep linguistic processing grammar of Modern Hebrew. HEGRAM is implemented in the
 Linguistic Knowledge Builder (LKB) system and grounded in the theoretical framework of
-Head-driven Phrase Structure Grammar (HPSG).
+Head-driven Phrase Structure Grammar (HPSG). 
 
 \section{HPSG}
 Head-Driven Phrase Structure Grammar (HPSG; \citealt{PollardSag94}) is  a constraint-based
-grammatical theory. In HPSG all linguistic objects (i.e., words, phrases, and clauses) are represented as typed feature structures.
+grammatical theory. In HPSG all linguistic objects (i.e., words, phrases, and clauses) are represented as typed feature structures. 
 The basic mechanism by which linguistic objects are related to each
 other is structure-sharing. Structure-sharing occurs when two paths in a
 feature structure lead to the very same (token-identical) node. As a result,
@@ -75,7 +75,7 @@ amenable to computational implementation. Moreover, the declarative nature of HP
 
 \section{About HEGRAM}
 
-HEGRAM is derived from the LinGO Grammar Matrix, which is an open-source starter-kit for the development of broad-coverage, precision HPSG grammars for diverse languages \citep{BenderFlickingerOepen02}. The Matrix provides a skeleton of a grammar, which covers basic lexical and phrasal types, semantic composition, and the infrastructure for unbounded dependencies and coordination. The current state of the grammar is significantly different from the Matrix-derived one.
+HEGRAM is derived from the LinGO Grammar Matrix, which is an open-source starter-kit for the development of broad-coverage, precision HPSG grammars for diverse languages \citep{BenderFlickingerOepen02}. The Matrix provides a skeleton of a grammar, which covers basic lexical and phrasal types, semantic composition, and the infrastructure for unbounded dependencies and coordination. The current state of the grammar is significantly different from the Matrix-derived one. 
 
 We have refined and extended the core grammar with the goal of achieving a broad-coverage grammar. One notable modification is the adoption of the packed argument-frame approach proposed by \citet{Haugereid11} to account for multiple argument frames per verb. In addition we extended the coverage to account for the Hebrew copular construction, including the possibility of zero copula, as well as other language-specific features such as noun-adjective agreement, and accusative case marking. At its current state, HEGRAM contains a small lexicon of
 === something about the lexicon and how we intend to interface with a large-scale lexicon
@@ -83,7 +83,7 @@ We have refined and extended the core grammar with the goal of achieving a broad
 At this point our grammar covers ``canonical'' clauses with SVO word order, different complement types, verbs with multiple argument frames, long distance dependencies (wh-questions and non-subject topicalization), non-verbal predicates (aka ``nominal clauses'') including zero copula constructions, and control verbs. In what follows we will focus on control verbs to illustrate key features of our analysis.
 
 \section{Control}
-Control verbs take infinitival VPs with unexpressed subjects as complements. In subject control (\ref{subj-control}), the unexpressed subject of the VP complement is identified with the subject of the control verb. With object control verbs (\ref{obj-control}), the unexpressed subject of the VP is the object of the control verb.
+Control is a phenomenon which poses challenges to a computational analysis. Control verbs take infinitival VPs with unexpressed subjects as complements. In subject control (\ref{subj-control}), the unexpressed subject of the VP complement is identified with the subject of the control verb. With object control verbs (\ref{obj-control}), the unexpressed subject of the VP is the object of the control verb.
 
       \begin{exe}
          \ex \begin{xlist}
@@ -99,7 +99,7 @@ Control verbs take infinitival VPs with unexpressed subjects as complements. In 
          \end{xlist}
     \end{exe}
 
-Control is a phenomenon which poses challenges to a computational analysis for two reasons. First, one syntactic argument in a sentence assumes two semantic roles. For example, in (\ref{subj-control}) the subject, Danny, is both the `promiser' and the `giver'. In (\ref{obj-control}) the girl is both the `allowed' and the `giver'. In addition, the controller is not necessarily adjacent to the verb of which it is the semantic subject.
+ Control constructions are challenging for two reasons. First, one syntactic argument in a sentence assumes two semantic roles. For example, in (\ref{subj-control}) the subject, Danny, is both the `promiser' and the `giver'. In (\ref{obj-control}) the girl is both the `allowed' and the `giver'. In addition, the controller is not necessarily adjacent to the verb of which it is the semantic subject.
 
  === something about how only a deep analysis can identify and represent these non-trivial relationships between arguments ====
 
@@ -113,9 +113,9 @@ Control is a phenomenon which poses challenges to a computational analysis for t
                      what Danny allowed to-the-girl to.give ACC the-dog\\
                 \trans `What did Danny allowed the girl to give the dog?'
     \end{exe}
-
+    
 The analysis produced by the LKB includes a syntactic phrase structure tree (\ref{tree}) and a semantic representation(\ref{mrs}). The syntactic tree represents the constituent structure assumed for the sentence.
-
+ 
       \begin{exe}
      \ex\label{tree}
         \Tree [.S   [.NP [.N mh ] ]
