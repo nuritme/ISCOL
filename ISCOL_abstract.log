@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.17)  22 JUL 2014 09:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.17)  25 JUL 2014 15:43
 entering extended mode
 **ISCOL_abstract.tex
 (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.tex
@@ -614,7 +614,7 @@ Package: cjhebrew 2004/08/27 v. 0.1a cjhebrew Hebrew Typesetting System
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 53.
 
-No file ISCOL_abstract.aux.
+(C:\Nurit\2014_research\ISCOL\ISCOL_abstract.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
@@ -631,6 +631,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 \AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring ON on input line 54.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -642,6 +643,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 54.
 LaTeX Info: Redefining \pageref on input line 54.
 LaTeX Info: Redefining \nameref on input line 54.
+
+(C:\Nurit\2014_research\ISCOL\ISCOL_abstract.out)
+(C:\Nurit\2014_research\ISCOL\ISCOL_abstract.out)
 \@outlinefile=\write4
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -670,74 +674,44 @@ on input line 78.
 Package natbib Warning: Citation `Haugereid11' on page 1 undefined on input lin
 e 80.
 
-
-LaTeX Warning: Reference `subj-control' on page 1 undefined on input line 86.
-
-
-LaTeX Warning: Reference `obj-control' on page 1 undefined on input line 86.
-
 [1
 
 {C:/Users/nurit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-LaTeX Warning: Reference `subj-control' on page 2 undefined on input line 102.
-
-
-LaTeX Warning: Reference `obj-control' on page 2 undefined on input line 102.
-
-
-LaTeX Warning: Reference `wh-obj-control' on page 2 undefined on input line 108
-.
-
-
-LaTeX Warning: Reference `tree' on page 2 undefined on input line 117.
-
-
-LaTeX Warning: Reference `mrs' on page 2 undefined on input line 117.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 121.
-[2]
+ [2]
 Overfull \hbox (68.98662pt too wide) in paragraph at lines 169--170
 [][] 
  []
 
-No file ISCOL_abstract.bbl.
+(C:\Nurit\2014_research\ISCOL\ISCOL_abstract.bbl [3])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
-[3]
+[4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
- (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.aux)
+ (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
-
-
-Package rerunfilecheck Warning: File `ISCOL_abstract.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ISCOL_abstract.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  2C347ECD55DA98C69C8B03C5AD0078BF;229.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `ISCOL_abstract.out' has not changed.
+(rerunfilecheck)             Checksum: 2C347ECD55DA98C69C8B03C5AD0078BF;229.
  ) 
 Here is how much of TeX's memory you used:
- 14217 strings out of 494045
- 252491 string characters out of 3145969
- 351458 words of memory out of 3000000
- 17281 multiletter control sequences out of 15000+200000
+ 14245 strings out of 494045
+ 253197 string characters out of 3145969
+ 352737 words of memory out of 3000000
+ 17296 multiletter control sequences out of 15000+200000
  5424 words of font info for 20 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 49i,21n,53p,1219b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,21n,53p,1219b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
@@ -746,9 +720,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ISCOL_abstract.pdf (3 pages, 105679 bytes).
+Output written on ISCOL_abstract.pdf (4 pages, 116055 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
