@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.17)  25 JUL 2014 15:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.17)  25 JUL 2014 15:53
 entering extended mode
 **ISCOL_abstract.tex
 (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.tex
@@ -661,20 +661,7 @@ LaTeX Info: Redefining \nameref on input line 54.
 \MPnumerator=\count140
 \makeMPintoPDFobject=\count141
 \everyMPtoPDFconversion=\toks29
-) ABD: EveryShipout initializing macros
-
-Package natbib Warning: Citation `PollardSag94' on page 1 undefined on input li
-ne 62.
-
-
-Package natbib Warning: Citation `BenderFlickingerOepen02' on page 1 undefined 
-on input line 78.
-
-
-Package natbib Warning: Citation `Haugereid11' on page 1 undefined on input lin
-e 80.
-
-[1
+) ABD: EveryShipout initializing macros [1
 
 {C:/Users/nurit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -687,42 +674,34 @@ Overfull \hbox (68.98662pt too wide) in paragraph at lines 169--170
  []
 
 (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.bbl [3])
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
-[4]
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
- (C:\Nurit\2014_research\ISCOL\ISCOL_abstract.aux
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+(C:\Nurit\2014_research\ISCOL\ISCOL_abstract.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `ISCOL_abstract.out' has not changed.
 (rerunfilecheck)             Checksum: 2C347ECD55DA98C69C8B03C5AD0078BF;229.
  ) 
 Here is how much of TeX's memory you used:
- 14245 strings out of 494045
- 253197 string characters out of 3145969
- 352737 words of memory out of 3000000
- 17296 multiletter control sequences out of 15000+200000
- 5424 words of font info for 20 fonts, out of 3000000 for 9000
+ 14243 strings out of 494045
+ 253176 string characters out of 3145969
+ 352860 words of memory out of 3000000
+ 17295 multiletter control sequences out of 15000+200000
+ 5116 words of font info for 19 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 49i,21n,53p,1219b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ISCOL_abstract.pdf (4 pages, 116055 bytes).
+ 49i,21n,53p,1219b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on ISCOL_abstract.pdf (4 pages, 108018 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
